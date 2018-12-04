@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		80533B7021B6455F00B56F34 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80533B6F21B6455F00B56F34 /* AppDelegate.swift */; };
-		80533B7221B6455F00B56F34 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80533B7121B6455F00B56F34 /* ViewController.swift */; };
+		80533B7221B6455F00B56F34 /* FaroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80533B7121B6455F00B56F34 /* FaroViewController.swift */; };
 		80533B7521B6455F00B56F34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80533B7321B6455F00B56F34 /* Main.storyboard */; };
 		80533B7721B6456100B56F34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80533B7621B6456100B56F34 /* Assets.xcassets */; };
 		80533B7A21B6456100B56F34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80533B7821B6456100B56F34 /* LaunchScreen.storyboard */; };
@@ -17,7 +17,7 @@
 /* Begin PBXFileReference section */
 		80533B6C21B6455F00B56F34 /* Faro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Faro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80533B6F21B6455F00B56F34 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		80533B7121B6455F00B56F34 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		80533B7121B6455F00B56F34 /* FaroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaroViewController.swift; sourceTree = "<group>"; };
 		80533B7421B6455F00B56F34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		80533B7621B6456100B56F34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80533B7921B6456100B56F34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				80533B6F21B6455F00B56F34 /* AppDelegate.swift */,
-				80533B7121B6455F00B56F34 /* ViewController.swift */,
+				80533B7121B6455F00B56F34 /* FaroViewController.swift */,
 				80533B7321B6455F00B56F34 /* Main.storyboard */,
 				80533B7621B6456100B56F34 /* Assets.xcassets */,
 				80533B7821B6456100B56F34 /* LaunchScreen.storyboard */,
@@ -135,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				80533B7221B6455F00B56F34 /* ViewController.swift in Sources */,
+				80533B7221B6455F00B56F34 /* FaroViewController.swift in Sources */,
 				80533B7021B6455F00B56F34 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

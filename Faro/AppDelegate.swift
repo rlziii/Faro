@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Faro
-//
-//  Created by Richard L Zarth III on 2018-12-04.
-//  Copyright © 2018 RLZIII. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
